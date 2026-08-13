@@ -1,0 +1,34 @@
+{
+  "city": "구리시",
+  "brandName": "구리 올바른정리",
+  "phone": "010-4393-2414",
+  "siteUrl": "https://guri.allbarunclean.com",
+  "districts": [
+    {
+      "slug": "north",
+      "name": "갈매·동구권",
+      "dongs": [
+        { "slug": "galmae", "name": "갈매동" },
+        { "slug": "donggu", "name": "동구동" }
+      ]
+    },
+    {
+      "slug": "center",
+      "name": "인창·교문권",
+      "dongs": [
+        { "slug": "inchang", "name": "인창동" },
+        { "slug": "gyomun1", "name": "교문1동" },
+        { "slug": "gyomun2", "name": "교문2동" }
+      ]
+    },
+    {
+      "slug": "south",
+      "name": "수택권",
+      "dongs": [
+        { "slug": "sutaek1", "name": "수택1동" },
+        { "slug": "sutaek2", "name": "수택2동" },
+        { "slug": "sutaek3", "name": "수택3동" }
+      ]
+    }
+  ]
+}

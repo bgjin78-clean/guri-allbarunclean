@@ -1,0 +1,10 @@
+{
+  "name": "allbarumclean-guri",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate-pages.js && node scripts/generate-sitemap.js && node scripts/check-similarity.js",
+    "pages": "node scripts/generate-pages.js",
+    "sitemap": "node scripts/generate-sitemap.js",
+    "similarity": "node scripts/check-similarity.js"
+  }
+}
