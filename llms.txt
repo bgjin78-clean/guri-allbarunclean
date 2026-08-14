@@ -9,7 +9,7 @@
 - 상호: 구리 올바른정리
 - 전화: 010-4393-2414
 - 지역: 경기도 구리시 8개 행정동
-- 사이트: https://guri.allbarunclean.com/
+- 사이트: https://www.guri.allbarunclean.com/
 - 유품정리 시작가: 45만원
 - 고독사 특수청소 시작가: 80만원
 - 쓰레기집청소·일반폐기물 시작가: 30만원
@@ -42,12 +42,12 @@
 
 ## 페이지
 
-- [메인](https://guri.allbarunclean.com/): 구리시 유품정리·쓰레기집청소 종합
-- [작업후기](https://guri.allbarunclean.com/reviews/): 유품정리 5건, 쓰레기집청소 5건
-- [고객후기](https://guri.allbarunclean.com/reviews/customer/): 상담·작업 후기
-- [갈매·동구권](https://guri.allbarunclean.com/regions/north/): [갈매동](https://guri.allbarunclean.com/regions/north/galmae/), [동구동](https://guri.allbarunclean.com/regions/north/donggu/)
-- [인창·교문권](https://guri.allbarunclean.com/regions/center/): [인창동](https://guri.allbarunclean.com/regions/center/inchang/), [교문1동](https://guri.allbarunclean.com/regions/center/gyomun1/), [교문2동](https://guri.allbarunclean.com/regions/center/gyomun2/)
-- [수택권](https://guri.allbarunclean.com/regions/south/): [수택1동](https://guri.allbarunclean.com/regions/south/sutaek1/), [수택2동](https://guri.allbarunclean.com/regions/south/sutaek2/), [수택3동](https://guri.allbarunclean.com/regions/south/sutaek3/)
+- [메인](https://www.guri.allbarunclean.com/): 구리시 유품정리·쓰레기집청소 종합
+- [작업후기](https://www.guri.allbarunclean.com/reviews/): 유품정리 5건, 쓰레기집청소 5건
+- [고객후기](https://www.guri.allbarunclean.com/reviews/customer/): 상담·작업 후기
+- [갈매·동구권](https://www.guri.allbarunclean.com/regions/north/): [갈매동](https://www.guri.allbarunclean.com/regions/north/galmae/), [동구동](https://www.guri.allbarunclean.com/regions/north/donggu/)
+- [인창·교문권](https://www.guri.allbarunclean.com/regions/center/): [인창동](https://www.guri.allbarunclean.com/regions/center/inchang/), [교문1동](https://www.guri.allbarunclean.com/regions/center/gyomun1/), [교문2동](https://www.guri.allbarunclean.com/regions/center/gyomun2/)
+- [수택권](https://www.guri.allbarunclean.com/regions/south/): [수택1동](https://www.guri.allbarunclean.com/regions/south/sutaek1/), [수택2동](https://www.guri.allbarunclean.com/regions/south/sutaek2/), [수택3동](https://www.guri.allbarunclean.com/regions/south/sutaek3/)
 
 ## 관련 사이트
 

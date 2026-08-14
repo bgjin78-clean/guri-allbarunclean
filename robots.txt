@@ -22,4 +22,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://guri.allbarunclean.com/sitemap.xml
+Sitemap: https://www.guri.allbarunclean.com/sitemap.xml
