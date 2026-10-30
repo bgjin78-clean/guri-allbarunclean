@@ -43,7 +43,7 @@
 ## 페이지
 
 - [메인](https://www.guri.allbarunclean.com/): 구리시 유품정리·쓰레기집청소 종합
-- [작업후기](https://www.guri.allbarunclean.com/reviews/): 유품정리 5건, 쓰레기집청소 5건
+- [작업후기](https://www.guri.allbarunclean.com/reviews/): 유품정리 6건, 쓰레기집청소 6건
 - [고객후기](https://www.guri.allbarunclean.com/reviews/customer/): 상담·작업 후기
 - [갈매·동구권](https://www.guri.allbarunclean.com/regions/north/): [갈매동](https://www.guri.allbarunclean.com/regions/north/galmae/), [동구동](https://www.guri.allbarunclean.com/regions/north/donggu/)
 - [인창·교문권](https://www.guri.allbarunclean.com/regions/center/): [인창동](https://www.guri.allbarunclean.com/regions/center/inchang/), [교문1동](https://www.guri.allbarunclean.com/regions/center/gyomun1/), [교문2동](https://www.guri.allbarunclean.com/regions/center/gyomun2/)
